@@ -1,6 +1,6 @@
 # FastFileSearch
 
-Fast FileSearch for Linux Servers using Linux grep and PHP7
+Fast File-Search for Linux Servers using Linux grep and PHP7. FastFileSearch also has a simple user management and caching system for searches based on JSON documents.
 
 ## Getting Started
 
