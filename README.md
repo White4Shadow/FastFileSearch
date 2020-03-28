@@ -48,7 +48,7 @@ https://www.yourdomain.com/installer/
 ```
 Trost  
 ```
-######find all files including "Trost" AND "Licht" in content 
+###### find all files including "Trost" AND "Licht" in content 
 
 ```
 Trost "AND" Licht  
@@ -66,7 +66,7 @@ Trost "OR" Licht
 "NOT" Licht  
 ```
 #### Searchqueries (selecting year)
-###### find all files including where year in RANGE
+###### find all files where year in RANGE
 
 ```
 1900 "RANGE" 1910
