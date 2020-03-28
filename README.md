@@ -43,7 +43,7 @@ https://www.yourdomain.com/installer/
 * year  -> Kategorie: metadata
 
 #### Searchqueries (selecting content)
-######find all files including "Trost" in content
+###### find all files including "Trost" in content
 
 ```
 Trost  
@@ -54,19 +54,19 @@ Trost
 Trost "AND" Licht  
 ```
 
-######find all files including "Trost" OR "Licht" in content 
+###### find all files including "Trost" OR "Licht" in content 
 
 ```
 Trost "OR" Licht  
 ```
 
-######find all files NOT including "Licht" in content 
+###### find all files NOT including "Licht" in content 
 
 ```
 "NOT" Licht  
 ```
 #### Searchqueries (selecting year)
-######find all files including where year in RANGE
+###### find all files including where year in RANGE
 
 ```
 1900 "RANGE" 1910
